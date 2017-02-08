@@ -21,6 +21,4 @@ runApp("haoyehowld")
 
 瀏覽器
 
-https://127.0.0.1:3838/haoyehowld
-
 https://[ your IP ]:3838/haoyehowld
