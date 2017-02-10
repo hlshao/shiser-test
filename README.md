@@ -16,8 +16,10 @@ runApp("haoyehowld")
 ## RStudio Server
 
 將整個目錄放置該路徑下 : /srv/shiny-server/
+
 ```
-/srv/shiny-server/haoyehowld
+sudo cp -R haoyehowld/ /srv/shiny-server
+
 ```
 
 瀏覽器
